@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Abolfazl Bigdeli
+## 👋 Hi, I'm Abolfazl Bigdeli
 
-I started with UI design and CMS open source, focusing only on how websites look. But later, I wanted to go deeper and discover programming. Now,I’m coding in the world of JavaScript and always try to learn things.</br>
+I started with UI design and CMS open source, focusing only on how websites ui. But later, I wanted to go deeper and discover programming. Now,I’m coding in the world of JavaScript and always try to learn things.</br>
 Computer student... .
 
 <div align="left">
@@ -14,7 +14,7 @@ Computer student... .
 
 ---
 
-### 🧰 I use ...
+### 🧰 Tech Stack 
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,react,nextjs,redux,regex,git,github,docker,npm,pnpm,vite,postman,figma,wordpress,obsidian,notion,stackoverflow,svg,vscode" />
@@ -34,7 +34,13 @@ Computer student... .
   </a>
 </details>
 
+```javascript
+🤝 Let’s build together.
+```
+
+
 <!--
+
 <details>
   <summary><b>GitHub Streak</b></summary>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
