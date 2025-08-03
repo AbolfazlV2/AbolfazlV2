@@ -3,14 +3,9 @@
 I started with UI design and CMS open source, focusing only on how websites ui. But later, I wanted to go deeper and discover programming. Now,I’m coding in the world of JavaScript and always try to learn things.</br>
 Computer student... .
 
-<div align="left">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/abolfazlv2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
+- [LinkedIn](https://linkedin.com/in/#)
+- [Instagram](https://instagram.com/_abolfazl.v2)
+
 
 ---
 
