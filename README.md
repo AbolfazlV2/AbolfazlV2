@@ -17,7 +17,7 @@ Computer student... .
 ### 🧰 Tech Stack 
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,react,nextjs,redux,regex,git,github,docker,npm,pnpm,vite,postman,figma,wordpress,obsidian,notion,stackoverflow,svg,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,react,nextjs,redux,regex,git,github,docker,npm,pnpm,vite,postman,figma,wordpress,notion,stackoverflow,vscode" />
 </a>
 
 #
