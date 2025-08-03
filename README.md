@@ -9,6 +9,10 @@ Computer student... .
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=stackoverflowjs,ts,html,css,tailwind,bootstartp,react,nextjs redux, regex,vite,postman,git,github,docker,figma npm,pnpm, wordpress ,obsidian, notion,postman, stackoverflow,svg,vscode&perline=9" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,react,nextjs,redux&perline=9" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=regex,vite,postman,git,github,docker,figma,npm,pnpm" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=wordpress,obsidian,notion,stackoverflow,svg,vscode" />
   </a>
 </div>
