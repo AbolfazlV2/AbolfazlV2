@@ -15,19 +15,6 @@ Computer Learner... .
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,react,nextjs,redux,regex,git,github,docker,npm,pnpm,vite,postman,figma,wordpress,notion,stackoverflow,vscode" />
 </a>
 
-#
-
-<details>
-<summary><b>WakaTime</b></summary>
-  <br />
-  <a href="https://github.com/abolfazlv2">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=AbolfazlV2&layout=compact&theme=radical&hide_border=true&langs_count=14&hide=other" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=AbolfazlV2&layout=compact&langs_count=14&hide=other" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=AbolfazlV2&layout=compact&theme=radical&hide_border=true&langs_count=14" alt="Wakatime Stats&hide=other" />
-    </picture>
-  </a>
-</details>
 
 ```javascript
 🤝 Let’s build together.
