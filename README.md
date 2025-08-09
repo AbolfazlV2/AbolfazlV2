@@ -6,7 +6,9 @@ Computer Learner... .
 - [LinkedIn](https://linkedin.com/in/#)
 - [Instagram](https://instagram.com/_abolfazl.v2)
 
-
+```javascript
+🤝 Let’s build together.
+```
 ---
 
 ### 🧰 Tech Stack 
@@ -18,9 +20,7 @@ Computer Learner... .
 
 
 
-```javascript
-🤝 Let’s build together.
-```
+
 
 
 <!--
